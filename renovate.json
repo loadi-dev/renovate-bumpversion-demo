@@ -5,5 +5,5 @@
   "enabledManagers": [
      "maven"
   ],
-  "bumpVersion": "patch",
+  "bumpVersion": "patch"
 }
